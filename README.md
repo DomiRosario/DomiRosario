@@ -1,24 +1,31 @@
-# hey, i'm domi
-
-indie app builder. I care way too much about whether software feels good to use.
-
-[![Portfolio](https://img.shields.io/badge/portfolio-domirosario.com-111111?style=flat-square)](https://domirosario.com) [![LinkedIn](https://img.shields.io/badge/linkedin-Domi%20Rosario-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domirosario/) [![X](https://img.shields.io/badge/x-@domirosari0-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/domirosari0)
-
-currently finishing an M.Sc. in Computer Science, building small useful products, and contributing where I can.
-
-## currently
-
-- building indie software at [domirosario.com](https://domirosario.com)
-- contributing to [OpenShip](https://github.com/DomiRosario/openship), a self-hosted deployment platform
-- interested in developer tools, privacy, and product craft
-
-## by the numbers
-
-<p>
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution details" width="100%" />
+<p align="center">
+  <img src="./assets/hero.svg" alt="Domi Rosario — software should feel deliberate" width="100%" />
 </p>
 
-<p>
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repository languages" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="49%" />
+<p align="center">
+  <a href="https://domirosario.com">portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/domirosario/">linkedin</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/domirosari0">x</a>
 </p>
+
+<p align="center">
+  building indie software at <a href="https://domirosario.com">domirosario.com</a> · contributing to <a href="https://github.com/DomiRosario/openship">OpenShip</a> · finishing an M.Sc. in Computer Science
+</p>
+
+<br />
+
+<h3 align="center">working set</h3>
+
+<p align="center">
+  <img src="./assets/typescript.svg" width="34" height="34" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/react.svg" width="34" height="34" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/nodedotjs.svg" width="34" height="34" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/python.svg" width="34" height="34" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/swift.svg" width="34" height="34" alt="Swift" title="Swift" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/postgresql.svg" width="34" height="34" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/cloudflare.svg" width="34" height="34" alt="Cloudflare" title="Cloudflare" />
+</p>
+
+<br />
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution details" width="100%" />
