@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://domirosario.com">portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/domirosario/">linkedin</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/domirosari0">x</a>
+  <a href="https://domirosario.com"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — domirosario.com" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/domirosario/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Domi Rosario" /></a>&nbsp;
+  <a href="https://x.com/domirosari0"><img src="./assets/link-x.svg" width="31.5%" alt="X — @domirosari0" /></a>
 </p>
 
 <p align="center">
-  building indie software at <a href="https://domirosario.com">domirosario.com</a> · contributing to <a href="https://github.com/DomiRosario/openship">OpenShip</a> · finishing an M.Sc. in Computer Science
+  <img src="./assets/now.svg" width="100%" alt="Now: building indie software, contributing to OpenShip, and finishing an M.Sc. in Computer Science" />
 </p>
 
 <br />
