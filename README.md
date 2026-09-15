@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://domirosario.com"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — domirosario.com" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/domirosario/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Domi Rosario" /></a>&nbsp;
-  <a href="https://x.com/domirosari0"><img src="./assets/link-x.svg" width="31.5%" alt="X — @domirosari0" /></a>
+  <a href="https://x.com/frmdomi"><img src="./assets/link-x.svg" width="31.5%" alt="X — @frmdomi" /></a>
 </p>
 
 <p align="center">
